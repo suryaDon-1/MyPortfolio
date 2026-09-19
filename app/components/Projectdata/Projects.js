@@ -67,7 +67,8 @@ const projects = [
       "REST APIs",
       "Groq API",
     ],
-    image: "/Aiinterview.png",
+    image: "/AiInterview.png
+      ",
     type: "AI Platform",
     link: "https://ai-question-view.vercel.app/",
   },
